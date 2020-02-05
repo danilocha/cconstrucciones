@@ -8,7 +8,7 @@ include 'admin/conexion/conexion_web.php';
 
 </style>
 <!-- Seccion de bienvenida -->
-<div class="row">
+<div class="row seccion-principal">
 	<h1 class="col s12 center animated slideInDown grey2-text">
 	<img src="images/logo.png" class="titulo" alt="">
 	</h1>
@@ -65,10 +65,11 @@ include 'admin/conexion/conexion_web.php';
 	
 
   </div>
+  
 <!-- 
 Seccion del slider -->
 
-<div class="row">
+<div class="row seccion-slider" >
 
 	<div class="swiper-container row">
 		<!--  -->

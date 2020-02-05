@@ -34,7 +34,7 @@
                     <span class="datos-g">   321 3009568 - 321 2696346 </span>
                     <br>
                     Contacta@Cconstrucciones.com</p>
-                    Direccion: Bogotá D.C. Autopista Norte # 114 - 78 Oficina 504
+                    Direccion: Bogotá D.C. Cra. 45 ## 114-78 Oficina 504
                 </div>
               </div>
 
@@ -57,6 +57,10 @@
           <div class="input-field">
           <input type="text">
           <label for="">Nombre</label>
+          </div>
+          <div class="input-field">
+          <input type="number">
+          <label for="">Numero de telefono</label>
           </div>
           <div class="input-field">
           <input type="text">

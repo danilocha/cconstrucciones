@@ -7,12 +7,12 @@
         <i class="material-icons" style="color: black;">menu</i>
       </a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="index">Inicio</a></li>
-          <li><a href="Diseño">Diseño</a></li>
-          <li><a href="construccion">Construccion</a></li>
-          <li><a href="inmobiliaria">Inmobiliaria</a></li>
-          <li><a href="nosotros">Nuestra empresa</a></li>
-          <li><a href="contacto">Contacto</a></li>
+          <li><a href="index" class="white-text teal darken-2">Inicio</a></li>
+          <li><a href="Diseño" class="white-text teal darken-2">Diseño</a></li>
+          <li><a href="construccion" class="white-text teal darken-2">Construccion</a></li>
+          <li><a href="inmobiliaria" class="white-text teal darken-2">Inmobiliaria</a></li>
+          <li><a href="nosotros" class="white-text teal darken-2">Nuestra empresa</a></li>
+          <li><a href="contacto" class="white-text teal darken-2">Contacto</a></li>
         </ul>
            <!--  Menu responsive -->
         <ul  class="sidenav" id="slide-out">
