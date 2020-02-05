@@ -127,6 +127,19 @@
 .seccion-slider {
   margin-top: 220px;
 }
+.mansory {
+  margin: 1rem auto;
+
+  column-count: 3;
+}
+.mansory .card {
+  break-inside: avoid;
+  padding: 25px;
+}
+.img-modal-diseno {
+  width: 100%;
+}
+
 @media (max-width: 600px) {
   .seccion-principal {
     height: 500px;
@@ -135,5 +148,8 @@
   .seccion-slider {
     margin-top: 420px;
     max-width: 90vw;
+  }
+  .mansory {
+    column-count: 1;
   }
 }
